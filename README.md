@@ -12,3 +12,7 @@ across the USA.
 * Identified different patterns relating to seasonal variations, the Covid effect, and sudden changes in employment
 
 * Used Matplotlib, Pandas, and Plotly for data manipulation and data visualization.
+
+[Analysis Report Download](https://github.com/esshariprasad/CNST_Group_3_FinalProject_Code/blob/main/CNST_Group_3_Project_Report.pdf)
+
+
