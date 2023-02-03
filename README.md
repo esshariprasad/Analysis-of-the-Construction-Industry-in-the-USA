@@ -2,7 +2,7 @@
 
 
 
-This is an data anlysis project which deals with Analysis of Construction Industry in USA
+This is a data anlaysis project which deals with the Analysis of the Construction Industry in the USA
 
 Analysis of Trends in the Workforce of the Construction Industry
 • Identified, analyzed, and highlighted employment trends relating to construction sector data over the past decade
